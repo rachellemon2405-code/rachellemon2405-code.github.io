@@ -1,0 +1,38 @@
+body {
+    background-color: #FFF8F0;
+}
+
+p {
+    margin-left: 1in;
+    margin-right: 1in;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+body {
+    font-family: "Times New Roman", serif;
+}
+body {
+    background-color: #FFF8F0;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 56px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(100% - 3in);
+    height: auto;
+}
