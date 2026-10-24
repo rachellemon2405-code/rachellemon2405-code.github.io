@@ -1,0 +1,147 @@
+body {
+    background-color: #F4F9F7;
+    font-family: "Times New Roman", serif;
+}
+
+#title {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    margin: 0;
+    font-size: 36px;
+    color: #2F5D62;
+}
+
+#intro {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    width: 800px;
+    margin: 0;
+    font-size: 20px;
+}
+
+#pic1 {
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+}
+
+#link1 {
+    position: absolute;
+    top: 240px;
+    left: 360px;
+    font-size: 24px;
+}
+
+#desc1 {
+    position: absolute;
+    top: 290px;
+    left: 360px;
+    width: 500px;
+    margin: 0;
+    font-size: 18px;
+}
+
+#pic2 {
+    position: absolute;
+    top: 420px;
+    left: 100px;
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+}
+
+#link2 {
+    position: absolute;
+    top: 440px;
+    left: 360px;
+    font-size: 24px;
+}
+
+#desc2 {
+    position: absolute;
+    top: 490px;
+    left: 360px;
+    width: 500px;
+    margin: 0;
+    font-size: 18px;
+}
+
+#pic3 {
+    position: absolute;
+    top: 620px;
+    left: 100px;
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+}
+
+#link3 {
+    position: absolute;
+    top: 640px;
+    left: 360px;
+    font-size: 24px;
+}
+
+#desc3 {
+    position: absolute;
+    top: 690px;
+    left: 360px;
+    width: 500px;
+    margin: 0;
+    font-size: 18px;
+}
+
+#pic4 {
+    position: absolute;
+    top: 820px;
+    left: 100px;
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+}
+
+#link4 {
+    position: absolute;
+    top: 840px;
+    left: 360px;
+    font-size: 24px;
+}
+
+#desc4 {
+    position: absolute;
+    top: 890px;
+    left: 360px;
+    width: 500px;
+    margin: 0;
+    font-size: 18px;
+}
+
+#pic5 {
+    position: absolute;
+    top: 1020px;
+    left: 100px;
+    width: 220px;
+    height: 165px;
+    object-fit: cover;
+}
+
+#link5 {
+    position: absolute;
+    top: 1040px;
+    left: 360px;
+    font-size: 24px;
+}
+
+#desc5 {
+    position: absolute;
+    top: 1090px;
+    left: 360px;
+    width: 500px;
+    margin: 0;
+    font-size: 18px;
+}
